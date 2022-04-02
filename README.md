@@ -10,7 +10,7 @@ Designed and built by: Justine Smithies - [Twitter](https://twitter.com/JustineS
 |Raspberry Pi Pico   |1|[Link](https://thepihut.com/collections/pico/products/raspberry-pi-pico)|
 |0.96" SSD1306 128x64 Blue |1|[Link](https://www.ebay.co.uk/itm/313603433645?hash=item490438a4ad:g:7cIAAOSwFxlgFY5O)|
 |1N4148 Diodes |100|[Link](https://www.ebay.co.uk/itm/313646674409?_trkparms=ispr%3D1&hash=item4906cc71e9:g:kZ8AAOSwxhNhIR6I&amdata=enc%3AAQAGAAAA4HNlZhtmMFCOq5AkzQH0g1bp9XaWKNkLGLOiWFiZxlmCq9DjLAMrg2mvwAyB2RHHrE3dDniqW%2BobKu4v26C3tfEyxvQ2PFxOeH2b29ldf5OfLvKByZQTxMN6oRU2uo9crlDv12TqKz3%2Fgx8%2Bp7mJj1xhxXUTjohUxtKXcReOvlKYzMl0mm8w2Ee9CNXhOk6dhgVcm%2FXnX7wU%2BQSw8NeLLqB1UowcjkWe20YgPIaIAmb9q9IOY5xcMTRZiXKsU77FcZD4aGHLpsCFzptt7cWOkYZCqHfl4BTQDhImGcBxoyI%2B%7Ctkp%3ABFBMgMuwqf1f)|
-|Kailh Box Thick Click Jade |90|[Link](https://mechbox.co.uk/collections/switches-packs-of-10/products/novelkeys-x-kailh-box-thick-click-jade-switch-10-switches?variant=40657871274146)|
+|Kailh Box Thick Click Jade or your own preference |90|[Link](https://mechbox.co.uk/collections/switches-packs-of-10/products/novelkeys-x-kailh-box-thick-click-jade-switch-10-switches?variant=40657871274146)|
 |MX Keycaps of your choice but I recommend WASD --> |87|[Link](https://www.wasdkeyboards.com/87-key-custom-cherry-mx-keycap-set.html)|
 |Custom made stainless steel plate |1|See the remarks below for info
 |Everglide Panda GH60 stablizers |1 pack|[Link](https://www.amazon.co.uk/Everglide-Mounted-Stabilizer-Mechanical-Keyboard/dp/B09C4WRLHK/ref=sr_1_6?crid=B1RT91QW1W2F&keywords=Everglide%2BPanda%2BBlack%2BWhite%2BGold%2BPlated%2BPlate%2BMounted&qid=1648913546&sprefix=everglide%2Bpanda%2Bblack%2Bwhite%2Bgold%2Bplated%2Bplate%2Bmounted%2B%2Caps%2C85&sr=8-6&th=1)|
