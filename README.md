@@ -1,7 +1,10 @@
-# JMS Pico TKL
-## Raspberry Pi Pico powered by CircuitPython and KMK
-![JMS-Pico-TKL](/img/finished1.jpg)
-Designed and built by: Justine Smithies - [Twitter](https://twitter.com/JustineSmithies) - [GitHub](https://github.com/JustineSmithies)
+ # JMS Pico TKL
+## Raspberry Pi Pico keyboard powered by CircuitPython and KMK
+![JMS-Pico-TKL](/img/JMS-Pico-TKL.jpg)\
+Desgined and built by: Justine Smithies - [Twitter](https://twitter.com/JustineSmithies)
+
+### Please note that these docs are currently a WIP and will be updated in due course to help users construct their own handwired Pico powered TKL keyboard.
+
 
 ## **BOM**
 |Item                                       |Count|Example|
@@ -17,7 +20,7 @@ Designed and built by: Justine Smithies - [Twitter](https://twitter.com/JustineS
 
 On top of that you'll be needing:
 * Soldering iron
-* Solder wire (anything between 0.5mm to 1mm, preferable with lead 'Pb')
+* Solder wire (anything between 0.5mm to 1.2mm, preferable with lead 'Pb')
 * Sharp craft knife or wire stripper for cutting sections of insulation out of the wires
 * Shapie marker
 
@@ -30,4 +33,4 @@ On top of that you'll be needing:
 ### *Setup CircuitPython*
 
 * Follow [this](https://circuitpython.org/board/raspberry_pi_pico/) guide in order to have the latest CircuitPython up and running on your Raspberry Pico. When it's installed correctly after plugin it in you should be able to see an additional drive named CIRCUIT_PYTHON or similar. 
-* 
+*
