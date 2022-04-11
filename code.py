@@ -13,7 +13,7 @@ import adafruit_displayio_ssd1306
 from adafruit_display_text import label
 
 from kmk.kmk_keyboard import KMKKeyboard
-from kmk.matrix import DiodeOrientation
+from kmk.scanners import DiodeOrientation
 from kmk.modules.layers import Layers
 from kmk.keys import KC, make_key, make_consumer_key
 import digitalio
